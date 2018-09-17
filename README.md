@@ -1,0 +1,2 @@
+# LINQ_SECOND
+Основы LINQ
